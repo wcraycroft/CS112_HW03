@@ -1,0 +1,48 @@
+"F:\Program Files\Java\jdk-11.0.2\bin\java.exe" "-javaagent:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2018.3.4\lib\idea_rt.jar=56835:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2018.3.4\bin" -Dfile.encoding=UTF-8 -classpath "C:\Users\Will\Desktop\CS 112 Projects\CS112_HW03\out\production\CS112_HW03" StubDemo
+Instantiate 2 Rectangles:
+Rectangle 1
+Entering Figure Constructor 
+Entering Rectangle Constructor 
+Rectangle 2
+Entering Figure Constructor 
+Entering Rectangle Constructor 
+
+Instantiate 2 Triangles:
+Triangle 1
+Entering Figure Constructor 
+Entering Rectangle Constructor 
+Triangle 2
+Entering Figure Constructor 
+Entering Rectangle Constructor 
+
+Draw Both Rectangles:
+Rectangle 1
+Entering draw() method for Rectangle 
+Rectangle 2
+Entering draw() method for Rectangle 
+
+Draw Both Triangles:
+Triangle 1
+Entering draw() method for Triangle 
+Triangle 2
+Entering draw() method for Triangle 
+
+Center 1 Rectangle:
+Entering center() method for Rectangle 
+center() calling erase()
+Entering erase() method for Rectangle 
+center() calling setCenter()
+Entering setCenter() method for Rectangle 
+center() calling draw()
+Entering draw() method for Rectangle 
+
+Center 1 Triangle:
+Entering center() method for Triangle 
+center() calling erase()
+Entering erase() method for Triangle 
+center() calling setCenter()
+Entering setCenter() method for Triangle 
+center() calling draw()
+Entering draw() method for Triangle 
+
+Process finished with exit code 0

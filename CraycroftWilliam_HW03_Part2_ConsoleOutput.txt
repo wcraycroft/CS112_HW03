@@ -1,0 +1,63 @@
+"F:\Program Files\Java\jdk-11.0.2\bin\java.exe" "-javaagent:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2018.3.4\lib\idea_rt.jar=58408:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2018.3.4\bin" -Dfile.encoding=UTF-8 -classpath "C:\Users\Will\Desktop\CS 112 Projects\CS112_HW03\out\production\CS112_HW03" GridDemo
+Initial grid with two Rectangles and two Triangles.
+
+y=15  +-------------------------------------------------+
+      |                                  *              |
+      |          **                      **             |
+      |        ** *                      * *            |
+      |      **   *                      *  *           |
+      |    **     *                      *   *          |
+      |  **       *                      *    *         |
+      | ***********                      *     *        |
+      |         #######################  ********       |
+      |         #                     #                 |
+      |         #           ####      #                 |
+      |         #           #  #      #                 |
+      |         #           ####      #                 |
+      |         #                     #                 |
+      |         #######################                 |
+  y=0 +-------------------------------------------------+
+     x=0                                               50
+
+The grid after second rectangle is centered.
+
+y=15  +-------------------------------------------------+
+      |                                  *              |
+      |          **                      **             |
+      |        ** *                      * *            |
+      |      **   *                      *  *           |
+      |    **     *                      *   *          |
+      |  **       *                      *    *         |
+      | ***********           ####       *     *        |
+      |         #######################  ********       |
+      |         #             ####    #                 |
+      |         #                     #                 |
+      |         #                     #                 |
+      |         #                     #                 |
+      |         #                     #                 |
+      |         #######################                 |
+  y=0 +-------------------------------------------------+
+     x=0                                               50
+
+The grid after second rectangle is erased and first triangle is centered.
+
+y=15  +-------------------------------------------------+
+      |                                  *              |
+      |                                  **             |
+      |                                  * *            |
+      |                                  *  *           |
+      |                            **    *   *          |
+      |                          ** *    *    *         |
+      |                        **   *    *     *        |
+      |         #############**## ##*##  ********       |
+      |         #          **       * #                 |
+      |         #         *********** #                 |
+      |         #                     #                 |
+      |         #                     #                 |
+      |         #                     #                 |
+      |         #######################                 |
+  y=0 +-------------------------------------------------+
+     x=0                                               50
+
+
+Process finished with exit code 0
